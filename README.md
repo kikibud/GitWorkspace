@@ -28,7 +28,7 @@ Data from Teros 12 sensors are collected using an ESP32, which queries the senso
 
 ## Future Files
 
-Future files ti be uploaded to the repository include the code for data analysis and previously collected data on sensor environmnetal sensitivity.
+Future files to be uploaded to this repository include the code for data analysis and previously collected data on sensor environmnetal sensitivity.
 
 ## Authors
 
