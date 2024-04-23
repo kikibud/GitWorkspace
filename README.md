@@ -1,4 +1,4 @@
-# Project Title
+# Development and Demonstration of a Sensor-Based Method for Monitoring Container Substrate Fertility
 
 This project aims to compare two different methods of monitoring substrate EC for developing new fertility management protocols in nursery greenhouses. Sensor-based and manually collected substrate EC values from a field experiment on lantana are stored in this repository.
 
